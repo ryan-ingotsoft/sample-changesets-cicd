@@ -1,10 +1,12 @@
 function App() {
   return (
-    <main>
+    <main style={{ textAlign: "center" }}>
       <h1>CI/CD Demo</h1>
-      <p>React + Vite + TypeScript + Changesets + Kubernetes</p>
+      <p>React + TypeScript + Changesets + Kubernetes</p>
     </main>
   );
 }
 
 export default App;
+
+// [cicd-0001]
