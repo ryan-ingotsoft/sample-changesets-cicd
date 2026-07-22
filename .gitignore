@@ -23,3 +23,9 @@ Thumbs.db
 
 # Docker
 .docker/
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# AI tooling
+.atl/
