@@ -7,7 +7,7 @@ function App() {
             <span className="status status-success" />
             <h1 className="card-title text-4xl font-bold">CI/CD Demo</h1>
             <p className="text-base-content/70">
-              React + TypeScript + Changesets + Kubernetes
+              React · TypeScript · Changesets · Tailwind · Kubernetes
             </p>
             <div className="flex gap-2 flex-wrap justify-center">
               <span className="badge badge-ghost">v0.0.2</span>
